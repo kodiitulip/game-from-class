@@ -11,8 +11,12 @@ config_version=5
 [application]
 
 config/name="Game From Class"
-config/features=PackedStringArray("4.4", "Forward Plus")
+config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
+
+[autoload]
+
+PhantomCameraManager="*res://addons/phantom_camera/scripts/managers/phantom_camera_manager.gd"
 
 [debug]
 
@@ -26,18 +30,21 @@ gdscript/warnings/unsafe_call_argument=1
 [display]
 
 window/size/viewport_width=640
-window/size/viewport_height=480
+window/size/viewport_height=360
 window/size/mode=2
 window/size/borderless=true
-window/stretch/mode="viewport"
 window/handheld/orientation=4
 window/vsync/vsync_mode=2
 window/size/mode.editor_hint=0
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/script-ide/plugin.cfg")
+enabled=PackedStringArray("res://addons/phantom_camera/plugin.cfg", "res://addons/script-ide/plugin.cfg")
 
 [physics]
 
 3d/physics_engine="Jolt Physics"
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
