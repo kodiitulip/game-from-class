@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ifswkrdkxjjv"
+path="res://.godot/imported/Battle-Conflict_loop.ogg-617d00256a2bbda2be4ed32ab784a14a.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/sound/02 Conflict/RPGmaker/Battle-Conflict_loop.ogg"
+dest_files=["res://.godot/imported/Battle-Conflict_loop.ogg-617d00256a2bbda2be4ed32ab784a14a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

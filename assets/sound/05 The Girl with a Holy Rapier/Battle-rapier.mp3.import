@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://5cumbxco0p1e"
+path="res://.godot/imported/Battle-rapier.mp3-3a7aa65e1b0cf879cf4b4af5136ba8a5.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/05 The Girl with a Holy Rapier/Battle-rapier.mp3"
+dest_files=["res://.godot/imported/Battle-rapier.mp3-3a7aa65e1b0cf879cf4b4af5136ba8a5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

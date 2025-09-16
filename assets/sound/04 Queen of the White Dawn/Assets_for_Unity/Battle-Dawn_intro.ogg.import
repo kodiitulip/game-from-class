@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c1k110vurtk5w"
+path="res://.godot/imported/Battle-Dawn_intro.ogg-817d8cfc465d13d13dab6ec078df7d48.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/sound/04 Queen of the White Dawn/Assets_for_Unity/Battle-Dawn_intro.ogg"
+dest_files=["res://.godot/imported/Battle-Dawn_intro.ogg-817d8cfc465d13d13dab6ec078df7d48.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

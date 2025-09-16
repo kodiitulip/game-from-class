@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d1sfc0nv00mff"
+path="res://.godot/imported/Battle-SAMURAI.mp3-d957ba81891258a552d03d1703bbd598.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/08 SAMURAI BLADE/Battle-SAMURAI.mp3"
+dest_files=["res://.godot/imported/Battle-SAMURAI.mp3-d957ba81891258a552d03d1703bbd598.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

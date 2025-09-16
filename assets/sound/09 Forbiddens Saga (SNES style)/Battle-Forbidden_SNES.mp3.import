@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d3qfw40if3e1p"
+path="res://.godot/imported/Battle-Forbidden_SNES.mp3-cf3016342454bfd95541cb7a095d9b3b.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/09 Forbiddens Saga (SNES style)/Battle-Forbidden_SNES.mp3"
+dest_files=["res://.godot/imported/Battle-Forbidden_SNES.mp3-cf3016342454bfd95541cb7a095d9b3b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bdku6w3f0qcv1"
+path="res://.godot/imported/Battle-SilverMoon.mp3-a815f89d9bd461e5f72b3a85385c4e09.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/06 The Sword of the Silver Moon/Battle-SilverMoon.mp3"
+dest_files=["res://.godot/imported/Battle-SilverMoon.mp3-a815f89d9bd461e5f72b3a85385c4e09.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cwa5n2vb734m2"
+path="res://.godot/imported/Battle-Conflict_intrto.ogg-616946af7300fdecaa166be9609671da.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/sound/02 Conflict/Assets_for_Unity/Battle-Conflict_intrto.ogg"
+dest_files=["res://.godot/imported/Battle-Conflict_intrto.ogg-616946af7300fdecaa166be9609671da.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
