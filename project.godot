@@ -29,10 +29,11 @@ gdscript/warnings/unsafe_call_argument=1
 
 [display]
 
-window/size/viewport_width=640
-window/size/viewport_height=360
+window/size/viewport_width=320
+window/size/viewport_height=192
 window/size/mode=2
 window/size/borderless=true
+window/stretch/mode="canvas_items"
 window/handheld/orientation=4
 window/vsync/vsync_mode=2
 window/size/mode.editor_hint=0
